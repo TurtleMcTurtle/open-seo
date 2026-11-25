@@ -37,7 +37,7 @@
     "tldts": "^7.4.21",
     "unified": "^11.0.5",
     "vite": "^7.3.6",
-    "zod": "^4.6.1"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@cloudflare/vite-plugin": "^1.13.3",
